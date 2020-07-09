@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTP-8">
+	<meta name="viewport" content="width=device-width, initial-sclae=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="keywords" content="html5, 웹표준"> <!~~ 해당 문서 키워드>>
+	<meta name="description" content="html5를 통해 웹 표준 공부하기"> <!~~해당 문서 설명>>
+	<meta name="author" content="Gyeong rae LEE"><!~~해당 문서 소유자, 제작자 >>
+	<title>HTML Study</title>
+</head>
+<body>
+	<pre> 나는 바보다 </pre>
+	<blockquote>
+		바보 맞지
+	<i> 이탤릭체로 표시할 텍스트 </i><br>
+	<em> 이탤릭체로 강조할 텍스트</em>
+	<strong><strong>ㅁㄴㅇㄹ</strong></strong>
+	</blockquote>
+</body>
+</html>
